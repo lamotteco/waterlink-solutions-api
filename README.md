@@ -6,7 +6,7 @@ API | Staging | Production
 ---|---|---
 Main API | `https://api2.staging.waterlinkconnect.com` | `https://wls-api.waterlinkconnect.com`
 Authentication | `https://auth2.staging.waterlinkconnect.com` | `https://wls-auth.waterlinkconnect.com`
-User Bridge: | `https://solutions.staging.waterlinkconnect.com/bridge/[bridge-token]` | N/A
+User Bridge: | `https://solutions.staging.waterlinkconnect.com/external-applications/bridge/[bridge-token]` | N/A
 
 
 
