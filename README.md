@@ -2,11 +2,11 @@
 
 ### Environment URLS
 
-API | Staging | Production
+API | Sandbox | Production
 ---|---|---
-Main API | `https://api2.staging.waterlinkconnect.com` | `https://wls-api.waterlinkconnect.com`
-Authentication | `https://auth2.staging.waterlinkconnect.com` | `https://wls-auth.waterlinkconnect.com`
-User Bridge: | `https://solutions.staging.waterlinkconnect.com/external-applications/bridge/[bridge-token]` | N/A
+Main API | `https://api-sandbox.waterlinkconnect.com` | `https://wls-api.waterlinkconnect.com`
+Authentication | `https://auth-sandbox.waterlinkconnect.com` | `https://wls-auth.waterlinkconnect.com`
+User Bridge: | `https://sandbox.waterlinkconnect.com/external-applications/bridge/[bridge-token]` | `https://solutions.waterlinkconnect.com/external-applications/bridge/[bridge-token]`
 
 
 
